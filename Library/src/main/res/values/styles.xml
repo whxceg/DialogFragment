@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="x_dialog_fragment_anim_bottom_in_out">
+        <item name="android:windowEnterAnimation">@anim/x_dialog_fragment_anim_inn_</item>
+        <item name="android:windowExitAnimation">@anim/x_dialog_fragment_anim_out_</item>
+    </style>
+
+</resources>
